@@ -8,3 +8,4 @@ Empty notebook wireframe
 
 * [PyCon 2019 Jupyter tutorial](https://github.com/ipython/ipython-in-depth)
 * http://qaru.site/questions/211499/best-practices-for-turning-jupyter-notebooks-into-python-scripts
+* https://hub.gke.mybinder.org/user/jupyterlab-jupyterlab-demo-9nscqytw/lab
